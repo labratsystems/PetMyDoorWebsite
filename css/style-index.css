@@ -10,7 +10,7 @@ html, body{
 
 .banner{
     position: relative;
-    background: url(../img/orange-tabby-cat-beside-fawn-short-coated-puppy-46024.png);
+    background: url(../assets/img/orange-tabby-cat-beside-fawn-short-coated-puppy-46024.png);
     min-height: 100vh;
     background-size: cover;
     background-position: center;
