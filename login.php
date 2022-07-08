@@ -77,33 +77,33 @@
 
 <div class="container-slider">
     <video autoplay muted id="video1" class="video1">
-        <source src="videos/dog 1.mp4" type="video/mp4">
+        <source src="assets/video/dog 1.mp4" type="video/mp4">
     </video>
 
     <video muted id="video2" class="video2">
-        <source src="videos/cat 1.mp4" type="video/mp4">
+        <source src="assets/video/cat 1.mp4" type="video/mp4">
     </video>
 
     <video muted id="video3" class="video3">
-        <source src="videos/dog 2.mp4" type="video/mp4">
+        <source src="assets/video/dog 2.mp4" type="video/mp4">
     </video>
 
     <video muted id="video4" class="video4">
-        <source src="videos/cat 2.mp4" type="video/mp4">
+        <source src="assets/video/cat 2.mp4" type="video/mp4">
     </video>
 
     <video muted id="video5" class="video5">
-        <source src="videos/dog 3.mp4" type="video/mp4">
+        <source src="assets/video/dog 3.mp4" type="video/mp4">
     </video>
 
     <video muted id="video6" class="video6">
-        <source src="videos/cat 3.mp4" type="video/mp4">
+        <source src="assets/video/cat 3.mp4" type="video/mp4">
     </video>
     <section>
         <div class="container-login">
             <div class="user signinBx">
                 <div class="imgBx">
-                    <img src="img/adoravel-animal-animal-de-estimacao-animal-domestico-1741205.jpg" alt="">
+                    <img src="assets/img/adoravel-animal-animal-de-estimacao-animal-domestico-1741205.jpg" alt="">
                 </div>
                 <div class="formBx">
                     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
@@ -129,7 +129,7 @@
                     </form>
                 </div>
                 <div class="imgBx">
-                    <img src="img/animal-bicho-cachorro-cao-3009441.png" alt="">
+                    <img src="assets/img/animal-bicho-cachorro-cao-3009441.png" alt="">
                 </div>
             </div>
         </div>    
