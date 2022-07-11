@@ -6,7 +6,7 @@
         <div class='body-produtos$codProduto'>
             <form action='' method='POST' class='container-produtos'>
                 <div class='imgBx'>
-                    <img src='$imagemProduto' alt=''>
+                    <img src='assets/$imagemProduto' alt=''>
                 </div>
                 <div class='details'>
                     <div class='content'>
