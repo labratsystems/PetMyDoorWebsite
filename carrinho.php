@@ -17,7 +17,7 @@
         $element = "
         <form action='' method='POST' class='container-produtos-cart'>
             <div class='imgBx-cart'>
-                <img src='$imagemProduto' alt=''>
+                <img src='assets/$imagemProduto' alt=''>
             </div>
             <div class='details-cart'>
                 <div class='content-cart'>
